@@ -1,2 +1,0 @@
-#Wed Feb 28 22:21:35 CET 2024
-BORDER_FOG=false
